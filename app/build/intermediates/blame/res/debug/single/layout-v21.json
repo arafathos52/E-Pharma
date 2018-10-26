@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\call_doctor.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\mipmap-xxhdpi\\call_doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

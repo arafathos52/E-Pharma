@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\if_black.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\if_black.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\stroke2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_header.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\cal_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\burn2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\burn2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons10.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons10.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_background.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\add_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons11.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons11.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vomiting1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\vomiting1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\stroke3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dehydration3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\dehydration3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\burn3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\burn3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vomiting3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\vomiting3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_walk_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_walk_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons12.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons12.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pills_blue.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pills_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plusss.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\plusss.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chrome_reader_mode_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_chrome_reader_mode_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_background.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pro_female.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pro_female.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gastric2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\gastric2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\burn1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\burn1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressure1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pressure1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_help.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_action_help.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panic1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\panic1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drowning2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\drowning2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bleeding1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\bleeding1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradientbackground.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons8.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons8.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressure3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pressure3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shock3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\shock3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panic2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\panic2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\event.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons9.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons9.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shock2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\shock2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_left_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_chevron_left_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\food3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_circle_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_add_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\epidemic.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\epidemic.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_aid.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\first_aid.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food2.jpg",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\food2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_doctor.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\contacts_doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dehydration1.jpg",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\dehydration1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vomiting2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\vomiting2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dehydration2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\dehydration2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\female.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_material_red.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\background_material_red.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons5.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons5.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_aladin.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\custom_aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\food1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gastric1.jpg",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\gastric1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons6.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons6.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trends.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\trends.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pill_choto.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pill_choto.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bleeding3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\bleeding3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\physical_tracker.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\physical_tracker.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breath3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\breath3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\height_scale.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\height_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drowning3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\drowning3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pill.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pill.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breath1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\breath1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_call.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_right_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_chevron_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_icon2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\man_icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_plus_white_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_header.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gastric3.jpg",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\gastric3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_button_background.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\delete_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_icon.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\man_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panic3.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\panic3.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_clock_grey600_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_clock_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drowning1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\drowning1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bell_plus_white_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_bell_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_back.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\white_back.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calorie.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\calorie.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mail.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons4.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons4.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonstyleithgradient.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\buttonstyleithgradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\breath2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\breath2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons7.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons7.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressure2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\pressure2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calorie2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\calorie2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_blue.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\back_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\age.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\age.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bleeding2.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\bleeding2.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_invert_colors_black_24dp.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\ic_invert_colors_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shock1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\shock1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\stroke1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\maruf\\.android\\build-cache\\e3cce4ae8d9686d040fd889f37bd0133b400513f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icons1.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\icons1.png"
+    },
+    {
+        "merged": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_machine.png",
+        "source": "C:\\Users\\maruf\\AndroidStudioProjects\\E-Pharma\\app\\src\\main\\res\\drawable\\weight_machine.png"
+    }
+]

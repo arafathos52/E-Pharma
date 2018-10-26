@@ -1,0 +1,150 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.shuvo.medicare.ContactNumber.DocotorInfo">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+
+        <LinearLayout
+            android:paddingTop="40dp"
+            android:paddingLeft="20dp"
+            android:paddingBottom="4dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_blue_dark"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/textView15"
+                android:paddingBottom="10dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Doctor Name" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Speciality" />
+        </LinearLayout>
+
+    </TableRow>
+
+    <TableRow
+        android:paddingLeft="20dp"
+        android:paddingBottom="50dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone Number :" />
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="01620404736" />
+
+        <Button
+            android:background="@drawable/phone_call"
+            android:id="@+id/button3"
+            android:layout_width="20dp"
+            android:layout_height="20dp" />
+    </TableRow>
+
+    <TableRow
+        android:paddingLeft="20dp"
+        android:paddingBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Schedule : " />
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From 1 to 2" />
+    </TableRow>
+
+    <TableRow
+        android:paddingLeft="20dp"
+        android:paddingBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email : " />
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="docotor@gmail.com" />
+    </TableRow>
+
+    <TableRow
+        android:paddingLeft="20dp"
+        android:paddingBottom="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address :" />
+
+        <TextView
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="90/91 Nazimuddin Road" />
+    </TableRow>
+</TableLayout>
+
+
+
+int getUid(long id)
+    {
+        String whereargs[]={Long.toString(id)};
+        String columns[]={ContactsDatabaseAdapter.ContactsDatabaseHelper.getUID()};
+        Cursor cursor=mSqLiteDatabase.query(ContactsDatabaseAdapter.ContactsDatabaseHelper.getDoctorTable(),
+                columns,
+                 "rowid _id =? ",whereargs,null,null,null,null);
+        if(cursor!=null){
+            cursor.moveToFirst();
+        }
+        String idName=cursor.getString(cursor.getColumnIndex(ContactsDatabaseAdapter.ContactsDatabaseHelper.getUID()));
+        return Integer.parseInt(idName);
+    }

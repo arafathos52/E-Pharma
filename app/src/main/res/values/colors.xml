@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+    <color name="colorAccent">#7C4DFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="tab2">#4FC3F7</color>
+    <color name="tab1">#00ACC1</color>
+    <color name="tab3">#DD2C00</color>
+    <!-- Screens background -->
+    <color name="select">#00ACC1</color>
+    <color name="screen1">#b12515</color>
+    <color name="screen2">#FFBB00</color>
+    <color name="screen3">#74a443</color>
+
+    <!-- dots active colors -->
+    <color name="dot_active">#000000</color>
+
+    <color name="bottom_bar">#EEEEEE</color>
+    <color name="graph">#0288D1</color>
+    <!-- dots inactive colors -->
+    <color name="dot_inactive">#cccccc</color>
+
+
+    <color name="text_color">#FF1744</color>
+    <color name="main_text_color">#000000</color>
+    <color name="all">#03A9F4</color>
+    <color name="graylight">#E0F2F1</color>
+    <color name="startblue">#4DD0E1</color>
+    <color name="endblue">#AED581</color>
+    <color name="normal">#9CCC65</color>
+    <color name="thin">#4FC3F7</color>
+    <color name="fat">#DD2C00</color>
+
+
+
+
+
+
+
+
+    <color name="darkgrey">#757575</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="middlegrey">#A8A8A8</color>
+    <color name="yellow">#f6d126</color>
+    <color name="green">#388E3C</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen">#026499</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen">#448bb2</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+        <item>@color/dot_light_screen</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+        <item>@color/dot_dark_screen</item>
+    </array>
+
+</resources>

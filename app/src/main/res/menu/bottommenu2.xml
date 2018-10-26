@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shuvo.medicare.physicalFitness.physical_fitness">
+
+    <item
+        android:id="@+id/Calorie"
+        android:icon="@drawable/ic_local_dining_black_24dp"
+        android:title="Calorie"/>
+    <item
+        android:id="@+id/weight_tab"
+        android:icon="@drawable/ic_equalizer_black_24dp"
+        android:title="Weight"/>
+
+</menu>

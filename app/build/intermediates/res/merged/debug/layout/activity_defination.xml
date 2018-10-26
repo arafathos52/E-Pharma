@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:padding="8dp"
+tools:context="com.example.shuvo.medicare.MediSearch.DefinationActivity">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/toolbar">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/medicinetext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fbffffff"
+            android:padding="8dp"
+            android:textSize="30sp"
+            android:textColor="#060606"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/genericname"
+            android:text="Generic"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:background="#fb5e5c6a"
+            android:padding="4dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/generictext"
+            android:textSize="16sp"
+            android:padding="8dp" android:background="#fbf3f5f2"
+            android:textColor="#060606"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/brandname"
+            android:text="Brand Names"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:background="#fb5e5c6a"
+            android:padding="4dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/brandtext"
+            android:textSize="16sp"
+            android:padding="8dp" android:background="#fbf3f5f2"
+            android:textColor="#060606"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/usesname"
+            android:text="Used For"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:background="#fb645c6a"
+            android:padding="4dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/usestext"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:background="#fbf3f5f2"
+            android:textColor="#060606"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sideeffectsname"
+            android:text="Side Effects"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:background="#fb645c6a"
+            android:padding="4dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sideeffectstext"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:background="#fbf3f5f2"
+            android:textColor="#060606"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dosagename"
+            android:text="Dosage Information"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:background="#fb645c6a"
+            android:padding="4dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dosagetext"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:background="#fbf3f5f2"
+            android:textColor="#060606"
+            />
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
+

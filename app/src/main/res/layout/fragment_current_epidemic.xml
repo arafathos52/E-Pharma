@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_size_epidemic"
+    tools:context="com.example.shuvo.medicare.CurrentEpidemic.CurrentEpidemicFragment">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                        <TextView
+                            android:paddingTop="20dp"
+                            android:paddingBottom="20dp"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:textColor="@color/text_color"
+                            android:id="@+id/disease_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Disease Name" />
+
+                        <TextView
+                            android:textColor="@color/text_color"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="@dimen/item_padding"
+                            android:text="Description" />
+
+
+                        <TextView
+                            android:textColor="@color/main_text_color"
+                            android:id="@+id/disease_description"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="@dimen/option_padding"
+                            android:text="TextView" />
+
+                        <TextView
+                            android:textColor="@color/text_color"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:paddingBottom="@dimen/item_padding"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Symptom" />
+
+                        <TextView
+                            android:textColor="@color/main_text_color"
+                            android:paddingBottom="@dimen/option_padding"
+                            android:id="@+id/disease_symptom"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="TextView" />
+
+                        <TextView
+                            android:textColor="@color/text_color"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:paddingBottom="@dimen/item_padding"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Prevention" />
+
+                        <TextView
+                            android:textColor="@color/main_text_color"
+                            android:paddingBottom="@dimen/option_padding"
+                            android:id="@+id/disease_prevent"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="TextView" />
+
+                        <android.support.design.widget.FloatingActionButton
+                            android:id="@+id/text_to_speech_fab"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="@dimen/icon_size"
+                            android:layout_gravity="bottom|end"
+                            android:clickable="true"
+                            android:elevation="6dp"
+                            app:srcCompat="@android:drawable/ic_lock_silent_mode_off" />
+
+
+                </LinearLayout>
+
+
+
+        </ScrollView>
+</LinearLayout>

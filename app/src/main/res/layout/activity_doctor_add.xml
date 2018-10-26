@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.shuvo.medicare.ContactNumber.DoctorAddActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding_size"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@android:drawable/ic_menu_gallery" />
+
+
+        <EditText
+
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:id="@+id/d_name_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="Doctor's Name" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:paddingLeft="50dp"
+        android:paddingBottom="@dimen/padding_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <EditText
+
+        android:id="@+id/d_speciality_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Speciality" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:paddingBottom="@dimen/padding_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/phone_call" />
+
+        <EditText
+
+            android:hint="Phone number"
+            android:id="@+id/d_phone_number_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="phone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:paddingBottom="@dimen/padding_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/mail" />
+
+        <EditText
+
+            android:hint="Dr.user@gmail.com"
+            android:id="@+id/d_email_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textEmailAddress" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:paddingBottom="@dimen/padding_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/clock" />
+
+        <EditText
+
+            android:id="@+id/d_schedule_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:hint="Schedule"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingRight="@dimen/padding_for_doctor_add"
+        android:paddingBottom="@dimen/padding_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/location" />
+
+        <EditText
+
+            android:hint="Address"
+            android:id="@+id/d_address_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/timeline"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="Timeline" />
+
+        <item
+            android:id="@+id/medicine"
+            android:icon="@drawable/pill"
+            android:title="MediSearch" />
+        <item
+            android:id="@+id/trends"
+            android:icon="@drawable/ic_directions_walk_black_24dp"
+            android:title="Fitness" />
+        <item
+            android:id="@+id/physical_tracker"
+            android:icon="@drawable/physical_tracker"
+            android:title="Document" />
+        <item
+            android:id="@+id/current_epidemic"
+            android:icon="@drawable/epidemic"
+            android:title="Current Epidemic" />
+        <item
+            android:id="@+id/first_aid"
+            android:icon="@drawable/first_aid"
+            android:title="First Aid" />
+        <item
+            android:id="@+id/contacts"
+            android:icon="@drawable/contacts"
+            android:title="Contacts" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/map"
+                android:icon="@drawable/ic_place_black_24dp"
+                android:title="Map" />
+
+            <item
+                android:id="@+id/login"
+                android:icon="@drawable/ic_person_add_black_24dp"
+                android:title="Login" />
+
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_person_outline_black_24dp"
+                android:title="Profile" />
+        </menu>
+    </item>
+
+</menu>
